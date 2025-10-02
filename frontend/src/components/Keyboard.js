@@ -1,4 +1,5 @@
 import React from "react";
+import "./Keyboard.css";
 
 function Keyboard({ onKeyPress }) {
   const row1 = "QWERTYUIOP".split("");
